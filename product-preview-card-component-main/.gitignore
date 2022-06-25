@@ -1,0 +1,25 @@
+# Avoid accidental upload of the Sketch and Figma design files
+#####################################################
+style-guide.md
+favicon-32x32.png
+icon-cart.svg
+image-product-desktop.jpg
+image-product-mobile.jpg
+active-states.jpg
+desktop-design.jpg
+desktop-preview.jpg
+mobile-design.jpg
+## Please do not remove lines 5 and 6 - thanks! 🙂 ##
+#####################################################
+*.sketch
+*.fig
+
+# Avoid accidental XD upload if you convert the design file
+###############################################
+## Please do not remove line 12 - thanks! 🙂 ##
+###############################################
+*.xd
+
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+.prettierignore
